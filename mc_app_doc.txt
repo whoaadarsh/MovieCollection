@@ -1,0 +1,13 @@
+Movie Collection Application
+
+Basic App :::
+
+    Features :
+            1. A user can add the movies to their collections.
+            2. A user can list them all.
+            3. A user can able to find the movies into their collections by using some fields such as 
+               Movie name or its released year.
+
+    Timeline :
+            We are providing them a menu from where they can choose the what they want to perform such as
+            Addition of movies, Listing them all or, searching the movies into the collection.
