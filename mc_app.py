@@ -83,7 +83,7 @@ def menu():
             listMovie(connection)
             print(" ")
         
-        elif menu_input == 's':
+        elif menu_input == 'f':
             print("Enter the movie data as per sequence (Name,value)::")
             entities=userSearchMovie()
             searchMovie(connection,entities)
